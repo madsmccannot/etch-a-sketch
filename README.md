@@ -12,7 +12,7 @@ Project Flow> <br>
 
   > append square to container outside the loop, inside the function
 
-/ add a event listener to the button so when its clicked teh uer gets prompted to add a number between 0 and 100 stored in userInput <br>
-/ userInput should be assigned to a Number(userInput) <br>
+/ add a event listener to the button so when its clicked the user gets prompted to add a number between 0 and 100 stored in userInput <br>
+/ userInput should be have assgined to it a Number(userInput) afterwards <br>
 / If both userInput is more than 0 and equal or less than 100 then call createGrid(userInput) <br>
 / Then at the very bottom of the file call createGrid(16), since this is the default grid shown when loading the page, this one will be deleted when the user clicks the button and selects a number that is prompted for them to create a custom grid. 
