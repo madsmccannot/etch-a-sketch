@@ -15,7 +15,7 @@ function createGrid(size) {
   
     square.addEventListener("mouseenter", () => {
       square.style.backgroundColor = "beige";
-    });
+    })
 
     container.appendChild(square);
   }
